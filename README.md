@@ -1,37 +1,81 @@
-<h1 align="center">Hey There!</h1>
-
-###
+# 🚀 Enzo Guimarães | Back-End Developer em evolução
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
+
+💻 Focado em Java Back-End
+📈 Evoluindo todos os dias com consistência
+🎯 Em busca da primeira oportunidade profissional
+
 </div>
 
-###
+---
+
+## ⚡ Sobre mim
+
+Sou um desenvolvedor em formação com foco em **Back-End Java**, construindo minha base com projetos práticos e disciplina diária.
+
+Minha missão é simples:
+👉 evoluir continuamente até alcançar nível profissional
+👉 gerar valor real através da tecnologia
+
+---
+
+## 🧠 Stack atual
 
 <div align="center">
-[  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-](https://www.linkedin.com/in/enzo-guimar%C3%A3es-3333b5354/)</div>
 
-###
+☕ Java
+🐘 PostgreSQL
+🔧 Git & GitHub
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 📚 Em evolução
 
-###
+* 🚀 Spring Boot
+* 🌐 APIs REST
+* 🧱 Arquitetura Back-End
+* 🧼 Boas práticas de código
+
+---
+
+## 🛠️ Projetos
+
+🔹 **Sistema de Controle de Estoque**
+Sistema com cadastro, listagem e controle de produtos
+
+🔹 **Mini Spotify (Java)**
+Gerenciamento de músicas com listas dinâmicas
+
+🔹 **To-Do List (em construção)**
+CRUD completo com foco em organização de tarefas
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=dark)
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira vaga como **Desenvolvedor Back-End Java**, aplicando na prática tudo que venho estudando e evoluindo diariamente.
+
+---
+
+## 🤝 Contato
+
+📫 (https://www.linkedin.com/in/enzo-guimar%C3%A3es-3333b5354/)
+
+---
+
+> "No momento certo, Eu o SENHOR farei acontecer!" 🙏
