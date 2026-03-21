@@ -58,9 +58,9 @@ CRUD completo com foco em organização de tarefas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimareassjs\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimaraessjs\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraessjs\&layout=compact\&theme=dark)
 
 </div>
 
