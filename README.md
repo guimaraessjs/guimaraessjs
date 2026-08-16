@@ -62,3 +62,38 @@ public class Enzo {
 ---
 
 ## 📚 Atualmente estudando
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimaraessjs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraessjs&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guimaraessjs&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira vaga como **Desenvolvedor Back-End Java**, contribuindo com times que valorizam aprendizado, entrega e evolução contínua.
+
+Se você procura alguém comprometido, disciplinado e em crescimento acelerado — vamos conversar. 👇
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-guimar%C3%A3es-3333b5354/)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"No momento certo, Eu o SENHOR farei acontecer!"* 🙏
+
+</div>
