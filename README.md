@@ -104,7 +104,7 @@ e transferência — estrutura de classes reais.
 </td>
 <td width="50%">
 
-### ✅ To-Do List *(em construção)*
+### ✅ To-Do List
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 CRUD completo com foco em lógica de negócio
